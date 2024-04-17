@@ -1,0 +1,9 @@
+Afin de trier le contenu conformément à vos instructions, en supprimant les éléments non relatifs à l'article central, voici le texte nettoyé des informations non pertinentes :
+
+---
+
+Nous valorisons votre intérêt pour nos services de conseil. Que vous ayez une question, que vous souhaitiez explorer les possibilités de collaboration, ou que vous nécessitiez des conseils d'experts, nous sommes là pour vous assister.
+
+---
+
+Tous les autres éléments, étant donné qu'ils sont liés à la prise de contact, à des éléments de service client ou à des détails du header/footer, ont été retirés.

@@ -1,0 +1,26 @@
+Navigating the Challenges and Opportunities of Synthetic Voices
+
+OpenAI is committed to developing safe and broadly beneficial AI. Today we are sharing preliminary insights and results from a small-scale preview of a model called Voice Engine, which uses text input and a single 15-second audio sample to generate natural-sounding speech that closely resembles the original speaker. It is notable that a small model with a single 15-second sample can create emotive and realistic voices.
+
+We first developed Voice Engine in late 2022, and have used it to power the preset voices available in the text-to-speech API as well as ChatGPT Voice and Read Aloud. At the same time, we are taking a cautious and informed approach to a broader release due to the potential for synthetic voice misuse. We hope to start a dialogue on the responsible deployment of synthetic voices, and how society can adapt to these new capabilities. Based on these conversations and the results of these small scale tests, we will make a more informed decision about whether and how to deploy this technology at scale.
+
+Early applications of Voice Engine
+To better understand the potential uses of this technology, late last year we started privately testing it with a small group of trusted partners. These small scale deployments are helping to inform our approach, safeguards, and thinking about how Voice Engine could be used for good across various industries. Examples include:
+
+1. Providing reading assistance to non-readers and children through natural-sounding, emotive voices representing a wider range of speakers than what's possible with preset voices. Age of Learning, an education technology company, has been using this to generate pre-scripted voice-over content and create real-time, personalized responses to interact with students.
+
+2. Translating content, like videos and podcasts, so creators and businesses can reach more people around the world, fluently and in their own voices. HeyGen, an AI visual storytelling platform, uses Voice Engine for video translation, preserving the native accent of the original speaker in the translations.
+
+3. Reaching global communities, by improving essential service delivery in remote settings. Dimagi is building tools for community health workers to provide services like counseling for breastfeeding mothers, giving interactive feedback in each worker's primary language, including Swahili or Sheng.
+
+4. Supporting people who are non-verbal, as in therapeutic applications for individuals with speech-affecting conditions and educational enhancements for those with learning needs. Livox, an AI alternative communication app, powers devices that enable people with disabilities to communicate using unique and non-robotic voices across many languages.
+
+5. Helping patients recover their voice who suffer from sudden or degenerative speech conditions. The Norman Prince Neurosciences Institute at Lifespan has been piloting a program offering Voice Engine to individuals with speech impairments, using brief audio samples to restore their voices.
+
+Building Voice Engine safely
+Generating speech that resembles people's voices comes with serious risks. We are engaging with partners from government, media, entertainment, education, civil society and beyond to incorporate feedback as we build. Partners testing Voice Engine have agreed to usage policies, which prohibit impersonation without consent. We require informed consent from the original speaker and don't allow developers to create ways for users to generate their own voices. Partners must disclose that the voices are AI-generated. We have implemented safety measures, including watermarking and proactive monitoring.
+
+We suggest that any broad deployment of synthetic voice technology should include voice authentication experiences and a no-go voice list to prevent creation of voices of prominent figures.
+
+Looking ahead
+Voice Engine is part of our commitment to understand the technical frontier and openly share what is possible with AI. We are previewing but not releasing this technology widely, mindful of its potential and the need to bolster societal resilience to challenges posed by convincing generative models. Steps we encourage include phasing out voice-based authentication, exploring policies to protect individuals' voices in AI, and educating the public about AI capabilities and limitations. It's important for people to understand where this technology is headed. We look forward to engaging in conversations around the challenges and opportunities of synthetic voices with various stakeholders.
